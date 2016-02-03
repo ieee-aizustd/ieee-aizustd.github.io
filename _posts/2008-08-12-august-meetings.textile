@@ -1,6 +1,0 @@
---- 
-layout: post
-author: Joseph Heck
-title: August meetings
----
-We've cancelled the August 14th meeting, and the August 28th meeting will likely be iPhone related, specifics TBD.
