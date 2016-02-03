@@ -5,5 +5,4 @@ title: index
 
 # Welcome to IEEE Student Group - The University of Aizu
 
-
-![First meeting](images/first_meeting.jpg)
+<img src="images/first_meeting.jpg" style='width:100%;' border="0" alt="Null">
