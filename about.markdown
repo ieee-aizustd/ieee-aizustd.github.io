@@ -3,8 +3,7 @@ layout: default
 title: About
 ---
 
-This is the home for the Seattle Xcoders. Our focus is primarily on the family of Cocoa SDK's. The group also explores other related technologies like Unix, relational databases, and scripting languages.  You are invited to share your ideas on how we can best serve your needs and have a bit of fun while doing it. We meet twice per month.
-
+This is the home for the IEEE-AizuSTD.
 # Group Information
 
 There are multiple ways to stay in touch:
