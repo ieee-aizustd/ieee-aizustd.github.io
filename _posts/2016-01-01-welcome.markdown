@@ -1,6 +1,6 @@
 --- 
 layout: post
-author: Andrew Carter
+author: Khanh N. Dang
 title: Welcome
 ---
 Welcome to the new home for the IEEE-AizuSTD user group. 
