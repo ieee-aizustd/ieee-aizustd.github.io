@@ -1,10 +1,10 @@
 --- 
 layout: post
 author: Khanh N. Dang
-title: Welcome
+title: Invited Talk: Prof. Pham Ngoc Nam
 ---
 
-![First meeting](images/2016-01-29_invited/invited_profNam.jpg)
+![First meeting](/images/2016-01-29_invited/invited_profNam.jpg)
 
 As part of our group's activities, we were pleased to invite  **Prof. Pham Ngoc Nam** from Hanoi University of Science and Technology (HUST) is going to give a talk on his research. Prof. Nam is now a visiting researcher at the UoA.
 
