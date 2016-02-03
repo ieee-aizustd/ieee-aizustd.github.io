@@ -1,0 +1,12 @@
+markdown: redcarpet
+pygments: true
+permalink: date
+google_analytics_code: UA-863684-1
+url: http://ieee-aizustd.github.com
+exclude:
+- bin
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- README.markdown
+- vendor
