@@ -7,7 +7,6 @@ title: News
 {% include postdetail.html %}
 {% endfor %}
 
-
 # Recent Posts
 
 <ul class="posts">

@@ -2,7 +2,7 @@ title: "IEEE-AizuStd"
 markdown: kramdown
 pygments: true
 permalink: date
-google_analytics_code: UA-863684-1
+google_analytics_code: UA-52343779-3
 url: http://ieee-aizustd.github.com
 exclude:
 - bin
