@@ -1,4 +1,6 @@
-# Seattle Xcoders Web Site
+# IEEE-AizuSTD Web Site
+
+We create this website based on Seattle Xcoders.
 
 This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site. It is built using Jekyll with a few modifications.
 
