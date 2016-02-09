@@ -28,3 +28,11 @@ List of the files to edit (all belong to this repo: <https://github.com/ieee-aiz
 4. contact.markdown: contact page
 5. _post/file_name.markdown : post in news
 6. image/post_date/filename.jpg : folder consists of image, please organized as sub-folders
+
+Please check it carefully before make any commitments. The site still has **2 errors** as shown bellow, please ignore it:
+
+	[2016-02-09 21:07:25] ERROR `/css/landscape.css' not found.
+	[2016-02-09 21:07:25] ERROR `/css/portrait.css' not found.
+
+
+**Please understand that any further errors is not belong to the original repository.**
