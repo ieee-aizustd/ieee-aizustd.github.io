@@ -16,11 +16,15 @@ All edits are based on markdown, the reference for syntax is here:
 
 <http://kramdown.gettalong.org/syntax.html>
 
-List of the file:
+In order to run in localhost, please install jekyll:
 
-* index.markdown : homepage
-* member.markdown: member page
-* activities.markdown: activities page
-* contact.markdown: contact page
-* _post/<file_name>.markdown : post in news
+<https://jekyllrb.com/>
 
+List of the files to edit (all belong to this repo: <https://github.com/ieee-aizustd/ieee-aizustd.github.io>):
+
+1. index.markdown : homepage
+2. member.markdown: member page
+3. activities.markdown: activities page
+4. contact.markdown: contact page
+5. _post/file_name.markdown : post in news
+6. image/post_date/filename.jpg : folder consists of image, please organized as sub-folders
