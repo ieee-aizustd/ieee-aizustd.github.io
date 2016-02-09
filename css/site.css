@@ -130,8 +130,9 @@ ul span {
 }
 
 #logo {
-	float: left;
+	float: center;
 	padding-right: 1.0em;
+	width:100%;
 }
 
 #sitetitle {
@@ -145,13 +146,15 @@ ul span {
  Navbar
  --------------------------------------------------------------*/
 #navbar {
-	padding: 8.0em 0em 0em 1em;
-	text-align: right;
+	padding: 0.5em 1.0em 0em 0em;
+	font-size: 2.0em;
+
+	text-align: left;
 	float: right;
 }
 
 #navbar .menu {
-	float: right;
+	float: center;
 }
 
 /*--------------------------------------------------------------

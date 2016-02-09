@@ -1,6 +1,6 @@
 title: "IEEE-AizuStd"
 markdown: kramdown
-pygments: true
+highighter: pygments
 permalink: date
 google_analytics_code: UA-52343779-3
 url: http://ieee-aizustd.github.com
