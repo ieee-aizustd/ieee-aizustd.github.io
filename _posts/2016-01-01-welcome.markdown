@@ -3,4 +3,7 @@ layout: post
 author: Khanh N. Dang
 title: Welcome
 ---
-Welcome to the new home for the IEEE-AizuSTD user group. 
+Welcome to the new home for the IEEE-AizuSTD user group.
+Please update this page. 
+
+![pic](/images/2016-01-01_firstmeeting/first_meeting.JPG){:style='width:100%;'}
