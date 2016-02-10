@@ -8,6 +8,18 @@
 			{% endfor %}
 		</ul>  
 	</div> -->
+	 <div class="grid" id="searchBar">
+      <div>
+          <div id="search">
+              <form role="search" method="get" action="{{site.baseurl}}/search/">
+                  <input id="searchString" name="searchString"
+                         placeholder="" type="text">
+                  <input id="searchButton" name="googleSearchName" type="button" value="Search">
+              </form>
+          </div>
+
+      </div>
+  </div>
 	<div id="upcoming" class="notice">
 		<h3>Upcoming Events</h3>
 			<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=180&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=64cakap669rr95f8dbqtn3i97k%40group.calendar.google.com&amp;color=%23853104&amp;ctz=Asia%2FTokyo" style="border-width:0" width="200" height="180" frameborder="0" scrolling="no"></iframe>
