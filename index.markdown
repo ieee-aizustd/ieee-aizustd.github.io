@@ -5,4 +5,7 @@ title: index
 
 # Welcome to IEEE Student Group - The University of Aizu
 
-<img src="images/first_meeting.jpg" style='width:100%;' border="0" alt="Null">
+Please edit index.markdown for this page
+
+# How to edit our page:
+Please read this article: [here](/edit.html)

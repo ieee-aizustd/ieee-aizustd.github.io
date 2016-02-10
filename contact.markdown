@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-This is the home for the IEEE-AizuSTD.
+Please edit contact.markdown for this page
 
 # Group Information
 
