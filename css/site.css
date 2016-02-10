@@ -113,7 +113,7 @@ ul span {
 #header a:link,
 #header a:visited {
 	color: rgb(51, 51, 51);
-	margin-left: 0.2em;
+	margin-left: 0em;
 }
 
 #header a:hover {
@@ -139,22 +139,25 @@ ul span {
 	font-size: 3em;
 	float: left;
 	display: inline;
-	padding: 2.5em 1em 0em 0em;
+	padding: 0em 0em 0em 0em;
 }
 
 /*--------------------------------------------------------------
  Navbar
  --------------------------------------------------------------*/
 #navbar {
-	padding: 0.5em 1.0em 0em 0em;
-	font-size: 1.50em;
-
-	text-align: left;
-	float: right;
+	padding: 0em 0em 0em 0em;
+	font-size: 1.20em;
+	display:inline-block;
+	text-align:center;
+/* 	text-align: left;
+	float: right; */
 }
 
 #navbar .menu {
-	float: center;
+	display:inline-block;
+	text-align:center;
+	/* float: center; */
 }
 
 /*--------------------------------------------------------------
@@ -165,7 +168,7 @@ ul span {
 	background-color: #ffffff;
 	border: 1px solid #ddd;
 	float: left;
-	margin-top: 1em;
+	margin-top: 0em;
 	padding: 1em 2em;
 	width: 95%;
 }
@@ -250,9 +253,13 @@ ul span {
 .menu li a.first {
 	border: 0;
 }
-
+.menu li a:visited {
+	/* color: #8085C1; */
+	color: #000000;
+}
 .menu li a:hover {
-	color: #8085C1;
+	/* color: #8085C1; */
+	color: #01847e;
 }
 
 /*--------------------------------------------------------------
