@@ -36,4 +36,8 @@ Please check it carefully before make any commitments. The site still has **2 er
 
 **Please understand that any further errors is not belong to the original repository.**
 
+A tutorial video if you want to understand more:
+
+<iframe width="100%" src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+
 Update: 2016 Feb 11th (K)
