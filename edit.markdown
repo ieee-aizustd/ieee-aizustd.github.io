@@ -6,17 +6,17 @@ title: Edit Note
 List of tools:
 
 1. Github.com
-2. git or (github tool)
-3. ruby
-4. gem and jekyll
+2. git or (github tool): <https://desktop.github.com/>
+3. jekyll and add-on applications, see: <http://jekyllrb.com/docs/installation/>
 
 # Steps
 In order to edit our website in github.com:
 
 1. Please create account in github.com 
 2. Request to join this group: <https://github.com/ieee-aizustd> 
-3. If you cannot join, please email me in : <d8162103@u-aizu.ac>
+3. If you cannot join, please email me in : <d8162103@u-aizu.ac.jp>
 4. All edits are based on markdown, the reference for syntax is here: <http://kramdown.gettalong.org/syntax.html>
+5. You can update with html if you want.
 5. In order to run in localhost, please install jekyll: <https://jekyllrb.com/>
 6. To commit the code, please install git or github tool. Direct website edit is not recommended.
 
