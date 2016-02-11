@@ -12,6 +12,7 @@ List of tools:
 
 # Steps
 In order to edit our website in github.com:
+
 1. Please create account in github.com 
 2. Request to join this group: <https://github.com/ieee-aizustd> 
 3. If you cannot join, please email me in : <d8162103@u-aizu.ac>
