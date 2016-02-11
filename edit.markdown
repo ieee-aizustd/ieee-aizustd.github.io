@@ -2,19 +2,22 @@
 layout: default
 title: Edit Note
 ---
-Notice: In order to edit our website in github.com, please create account in github.com and request to join this group:
+# How to edit our website
+List of tools:
 
-<https://github.com/ieee-aizustd>
+1. Github.com
+2. git or (github tool)
+3. ruby
+4. gem and jekyll
 
-If you cannot join, please email me in : d8162103@u-aizu.ac.jpg
-
-All edits are based on markdown, the reference for syntax is here:
-
-<http://kramdown.gettalong.org/syntax.html>
-
-In order to run in localhost, please install jekyll:
-
-<https://jekyllrb.com/>
+# Steps
+In order to edit our website in github.com:
+1. Please create account in github.com 
+2. Request to join this group: <https://github.com/ieee-aizustd> 
+3. If you cannot join, please email me in : <d8162103@u-aizu.ac>
+4. All edits are based on markdown, the reference for syntax is here: <http://kramdown.gettalong.org/syntax.html>
+5. In order to run in localhost, please install jekyll: <https://jekyllrb.com/>
+6. To commit the code, please install git or github tool. Direct website edit is not recommended.
 
 List of the files to edit (all belong to this repo: <https://github.com/ieee-aizustd/ieee-aizustd.github.io>):
 
@@ -30,5 +33,6 @@ Please check it carefully before make any commitments. The site still has **2 er
 	[2016-02-09 21:07:25] ERROR `/css/landscape.css' not found.
 	[2016-02-09 21:07:25] ERROR `/css/portrait.css' not found.
 
-
 **Please understand that any further errors is not belong to the original repository.**
+
+Update: 2016 Feb 11th (K)
