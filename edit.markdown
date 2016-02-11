@@ -38,6 +38,6 @@ Please check it carefully before make any commitments. The site still has **2 er
 
 A tutorial video if you want to understand more:
 
-<iframe width="100%" padding-bottom="56.25%" src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%"  height="24vw" src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 Update: 2016 Feb 11th (K)
