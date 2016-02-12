@@ -8,6 +8,7 @@ List of tools:
 1. Github.com
 2. git or (github tool): <https://desktop.github.com/>
 3. jekyll and add-on applications, see: <http://jekyllrb.com/docs/installation/>
+4. For japanese: <http://jekyllrb-ja.github.io/>
 
 # Steps
 In order to edit our website in github.com:
