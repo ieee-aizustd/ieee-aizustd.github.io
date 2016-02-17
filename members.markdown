@@ -57,6 +57,36 @@ title: Members
 </table>
 
 
+![mai profile image](/images/profileImage/){:style='width:100px;'}
+<table>
+	<tr>
+		<td>Name:</td>
+		<td>Vuong Viet Mai</td>
+	</tr>
+	<tr>
+		<td>Nationality</td>
+		<td>Vietnam</td>
+	</tr>
+	<tr>
+		<td>Language:</td>
+		<td>Vietnaes, English, Japanese</td>
+	</tr>
+	<tr>
+		<td>Contact:</td>
+		<td>m.v.vuong@ieee.org</td>
+	</tr>
+	<tr>
+		<td>Personal Website:</td>
+		<td>
+			<a href="https://sites.google.com/site/vuongvietmai/home">https://sites.google.com/site/vuongvietmai/home</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Current Study & Research:</td>
+		<td>Vuong V. Mai received the B.E. degree in Electronic Telecommunication Engineering with First Class Honours from Posts and Telecommunications Institute of Technology, Vietnam in 2012, and the M.E. degree in Computer Network System from The University of Aizu (UoA), Japan in 2014. He is currently working toward a Ph.D. degree in Computer Science and Engineering at UoA. He was awarded President's Award of Excellence for Masters Study, UoA, and IEEE student travel award for IEEE GLOBECOM 2015. Mai's study in Japan is funded by a Japanese government scholarship (MonbuKagaku-sho). His current research focuses on cross-layer design and performance analysis for Optical Wireless Communications. Mai is student member of IEEE and IEICE. </td>
+	</tr>
+</table>
+
 ![ profile image](/images/profileImage/){:style='width:100px;'}
 <table>
 	<tr>
