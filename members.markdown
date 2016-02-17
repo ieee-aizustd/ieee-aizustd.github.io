@@ -26,7 +26,7 @@ title: Members
 ---
 
 
-![kaneda](/images/profileImage/yuyakaneda.JPG){:style='width:100px;'}
+![kaneda profile image](/images/profileImage/yuyakaneda.JPG){:style='width:100px;'}
 <table>
 	<tr>
 		<td>Name:</td>
@@ -56,3 +56,33 @@ title: Members
 	</tr>
 </table>
 
+
+![ profile image](/images/profileImage/){:style='width:100px;'}
+<table>
+	<tr>
+		<td>Name:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Nationality</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Language:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Contact:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Personal Website:</td>
+		<td>
+			<a href=""></a>
+		</td>
+	</tr>
+	<tr>
+		<td>Current Study & Research:</td>
+		<td></td>
+	</tr>
+</table>
