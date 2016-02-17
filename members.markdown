@@ -46,7 +46,9 @@ title: Members
 	</tr>
 	<tr>
 		<td>Personal Website:</td>
-		<td><https://scholar.google.co.jp/citations?hl=ja&user=ucahMNEAAAAJ></td>
+		<td>
+			<a href="https://scholar.google.co.jp/citations?hl=ja&user=ucahMNEAAAAJ">https://scholar.google.co.jp/citations?hl=ja&user=ucahMNEAAAAJ</a>
+		</td>
 	</tr>
 	<tr>
 		<td>Current Study & Research:</td>
