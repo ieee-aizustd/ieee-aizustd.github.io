@@ -103,6 +103,37 @@ title: Members
 	</tr>
 	<tr>
 		<td>Contact:</td>
+		<td>m5182102@u-aizu.ac.jp,ducnv.hedspi@gmail.com</td>
+	</tr>
+	<tr>
+		<td>Personal Website:</td>
+		<td>
+			<a href=""></a>
+		</td>
+	</tr>
+	<tr>
+		<td>Current Study & Research:</td>
+		<td>He is working on bitrate adaptation methods for HTTP Adaptive Streaming. His research interests include video streaming, quality of experience, and e-health system.</td>
+	</tr>
+</table>
+
+
+![Duc Van Nguyen profile image](/images/profileImage/){:style='width:100px;'}
+<table>
+	<tr>
+		<td>Name:</td>
+		<td>Duc Van Nguyen</td>
+	</tr>
+<tr>
+		<td>Nationality:</td>
+		<td>Vietnam</td>
+	</tr>
+	<tr>
+		<td>Language:</td>
+		<td>Japanese (Intermediate), Vietnamese (mother tongue), English (Intermediate).</td>
+	</tr>
+	<tr>
+		<td>Contact:</td>
 		<td>m5182102@u-aizu.ac.jp, ducnv.hedspi@gmail.com</td>
 	</tr>
 	<tr>
@@ -117,32 +148,95 @@ title: Members
 	</tr>
 </table>
 
-![ profile image](/images/profileImage/){:style='width:100px;'}
+
+![Huawei Huang profile image](/images/profileImage/){:style='width:100px;'}
 <table>
 	<tr>
 		<td>Name:</td>
-		<td></td>
+		<td>Huawei Huang</td>
 	</tr>
-	<tr>
-		<td>Nationality</td>
-		<td></td>
+<tr>
+		<td>Nationality:</td>
+		<td>Chinese</td>
 	</tr>
 	<tr>
 		<td>Language:</td>
-		<td></td>
+		<td>English</td>
 	</tr>
 	<tr>
 		<td>Contact:</td>
-		<td></td>
+		<td>d8152101@u-aizu.ac.jp</td>
 	</tr>
 	<tr>
 		<td>Personal Website:</td>
 		<td>
-			<a href=""></a>
+			<a href="https://www.researchgate.net/profile/Huawei_Huang">https://www.researchgate.net/profile/Huawei_Huang</a>
 		</td>
 	</tr>
 	<tr>
 		<td>Current Study & Research:</td>
-		<td></td>
+		<td>Huawei Huang received both the Bachelor and Master degree in Computer Science and Technology from the China University of Geoscience (Wuhan) in 2011 and 2013, respectively. He is currently a PhD student at School of Computer Science and Engineering, The University of Aizu, Japan. His research interests are mainly in the area of SDN, NFV, and wireless networks.</td>
+	</tr>
+</table>
+
+
+![Hung Thai Le profile image](/images/profileImage/){:style='width:100px;'}
+<table>
+	<tr>
+		<td>Name:</td>
+		<td>Hung Thai Le</td>
+	</tr>
+<tr>
+		<td>Nationality:</td>
+		<td>Vietnam</td>
+	</tr>
+	<tr>
+		<td>Language:</td>
+		<td>English</td>
+	</tr>
+	<tr>
+		<td>Contact:</td>
+		<td>hung.kstn.k52@gmail.com</td>
+	</tr>
+	<tr>
+		<td>Personal Website:</td>
+		<td>
+			<a href="https://sites.google.com/site/hungthailevn/">https://sites.google.com/site/hungthailevn/</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Current Study & Research:</td>
+		<td>Multimedia, quality support, video streaming.</td>
+	</tr>
+</table>
+
+
+![Phuc Viet Trinh profile image](/images/profileImage/){:style='width:100px;'}
+<table>
+	<tr>
+		<td>Name:</td>
+		<td>Phuc Viet Trinh</td>
+	</tr>
+<tr>
+		<td>Nationality:</td>
+		<td>VIETNAMESE</td>
+	</tr>
+	<tr>
+		<td>Language:</td>
+		<td>Vietnamese (native), English</td>
+	</tr>
+	<tr>
+		<td>Contact:</td>
+		<td>d8171105@u-aizu.ac.jp,vietphuc17@gmail.com</td>
+	</tr>
+	<tr>
+		<td>Personal Website:</td>
+		<td>
+			<a href="https://sites.google.com/site/vietphuctrinh/">https://sites.google.com/site/vietphuctrinh/</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Current Study & Research:</td>
+		<td>Phuc V. Trinh received the B.E. (First Class Hons.) degree in electron- ics and telecommunications from the Posts and Telecommunications Institute of Technology, Hanoi, Vietnam in 2013, and the M.Sc. degree in computer science and engineering from the University of Aizu (UoA), Aizuwakamatsu, Japan, in 2015. He is currently working toward the Ph.D. degree in computer science and engineering at UoA. His study in Japan is funded by a Japanese government scholarship (MonbuKagaku-sho). He was the recipient of several awards, including the IEEE Sendai Section's Student Award (2014), the UoA President's Award for the best Master's student (2015), and the Young Researcher's Encouragement Award from IEEE VTS Japan Chapter (2015). His current research interests are in the area of optical wireless communications, including modulation techniques, coding, system modeling and simulation, and performance analysis. He is a student member of IEICE and IEEE.</td>
 	</tr>
 </table>
