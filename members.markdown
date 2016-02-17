@@ -87,6 +87,36 @@ title: Members
 	</tr>
 </table>
 
+![duc profile image](/images/profileImage/){:style='width:100px;'}
+<table>
+	<tr>
+		<td>Name:</td>
+		<td>Duc Van Nguyen</td>
+	</tr>
+	<tr>
+		<td>Nationality</td>
+		<td>Vietnam</td>
+	</tr>
+	<tr>
+		<td>Language:</td>
+		<td>Japanese (Intermediate), Vietnamese (mother tongue), English (Intermediate)</td>
+	</tr>
+	<tr>
+		<td>Contact:</td>
+		<td>m5182102@u-aizu.ac.jp, ducnv.hedspi@gmail.com</td>
+	</tr>
+	<tr>
+		<td>Personal Website:</td>
+		<td>
+			<a href=""></a>
+		</td>
+	</tr>
+	<tr>
+		<td>Current Study & Research:</td>
+		<td>He is working on bitrate adaptation methods for HTTP Adaptive Streaming. His research interests include video streaming, quality of experience, and e-health system.</td>
+	</tr>
+</table>
+
 ![ profile image](/images/profileImage/){:style='width:100px;'}
 <table>
 	<tr>
