@@ -11,7 +11,3 @@ You can find information about our committee and acitivities from the above menu
 
 
 If you are interested in our group, please contact us by email (<ieee-uoastd@u-aizu.ac.jp>).
-
-
-# How to edit our page:
-Please read this article: [here](/edit.html)
