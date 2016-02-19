@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-Please edit contact.markdown for this page
-
 # Group Information
 
 The IEEE Student Group at the University of Aizu was created on Dec. 2015.
